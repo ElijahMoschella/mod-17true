@@ -1,4 +1,4 @@
-# Title (replace with your title)
+# Email address regex patterns
 
 i will be describing the regex pattern for a users email address
 
